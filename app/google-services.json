@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819772285738",
+    "project_id": "cetak-kuy-b8bf8",
+    "storage_bucket": "cetak-kuy-b8bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819772285738:android:a989f116773a33e9ca3453",
+        "android_client_info": {
+          "package_name": "com.efix.cetakkuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819772285738-6og8s3an3qcqjp10qil9st7i50v3j7i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvoyks1IF2JXwLzFdJK-AdyH4ZtlYyZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819772285738-6og8s3an3qcqjp10qil9st7i50v3j7i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

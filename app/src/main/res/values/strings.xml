@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Cetak Kuy</string>
+    <string name="register">Register</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="password">Password</string>
+    <string name="to_login_btn">Udah punya akun? lanjut Login!</string>
+    <string name="kode_pos">Kode Pos</string>
+    <string name="email">Email</string>
+    <string name="no_hp">No HP</string>
+    <string name="alamat_lengkap">Alamat Lengkap</string>
+    <string name="login">Login</string>
+    <string name="hallo_selamat_datang">Hallo! Selamat datang</string>
+    <string name="silahkan_masukkan_email_dan_password_guys">Silahkan masukkan email dan password guys!</string>
+    <string name="belum_punya_akun_daftar_yuk">Belum punya akun? Daftar yuk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="jenis_kertas">
+        <item>A4</item>
+        <item>Legal</item>
+    </string-array>
+
+    <string-array name="jilid">
+        <item>Ya</item>
+        <item>Tidak</item>
+    </string-array>
+
+    <string-array name="ukuran_photo">
+        <item>2R</item>
+        <item>3R</item>
+        <item>4R</item>
+        <item>5R</item>
+        <item>6R</item>
+        <item>310R</item>
+    </string-array>
+
 </resources>
